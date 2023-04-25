@@ -6,5 +6,9 @@ public class Company {
 	private String address;
 	private String PIva;
 	
+	public String getName() {
+		return this.name;
+	}
+	
 	
 }
